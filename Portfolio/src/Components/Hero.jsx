@@ -13,8 +13,9 @@ const Hero = () => {
                 I'm <br />
                 <span className='text-white'>Ayushman Praharaj</span> <br />
                 <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>
-                    UI-UX Designer &nbsp;
+                    UI-UX Designer & &nbsp;
                 </span>
+
                 <span className='text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-500'>
                     Full Stack Developer
                 </span>
