@@ -70,9 +70,9 @@ const Navbar = () => {
           </a>
         ))}
         <button
-          className="mt-2 px-5 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 shadow-md hover:scale-105 transition"
+          className="mt-2 px-5 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 shadow-md hover:scale-105 transition" id='https://www.linkedin.com/in/ayushman-praharaj-28985231b/'
         >
-          Get Started
+          LinkDin
         </button>
       </div>
     </nav>

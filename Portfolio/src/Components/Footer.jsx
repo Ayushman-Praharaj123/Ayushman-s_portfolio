@@ -15,7 +15,7 @@ const Footer = () => {
         {/* Social Icons */}
         <div className="flex justify-center gap-6 text-xl mb-6">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Ayushman-Praharaj123"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400 transition-transform duration-300 hover:scale-110"
@@ -23,7 +23,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/ayushman-praharaj-28985231b/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-500 transition-transform duration-300 hover:scale-110"
@@ -39,7 +39,7 @@ const Footer = () => {
             <FaInstagram />
           </a>
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:ayushmanpraharaj85@gmail.com"
             className="hover:text-yellow-400 transition-transform duration-300 hover:scale-110"
           >
             <FaEnvelope />
@@ -48,7 +48,7 @@ const Footer = () => {
 
         {/* Bottom Line */}
         <p className="text-sm text-gray-600">
-          © {new Date().getFullYear()} Ayushman Praharaj. All rights reserved.
+          © {new Date().getFullYear()} The site is managed by Ayushman Praharaj.
         </p>
       </div>
     </footer>

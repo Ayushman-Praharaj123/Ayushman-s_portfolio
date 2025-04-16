@@ -18,7 +18,7 @@ const contactCards = [
     icon: <FaLinkedin className="text-pink-400 text-xl" />,
     title: 'Connect on LinkedIn',
     detail: 'linkedin.com/in/ayushmanpraharaj',
-    link: 'https://www.linkedin.com/in/ayushmanpraharaj',
+    link: 'https://www.linkedin.com/in/ayushman-praharaj-28985231b/',
   },
   {
     icon: <FaMapMarkerAlt className="text-yellow-400 text-xl" />,
