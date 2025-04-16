@@ -33,8 +33,8 @@ const Navbar = () => {
         </div>
 
         {/* Desktop Button */}
-        <button className="hidden md:inline-block px-5 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 shadow-lg hover:shadow-xl transition duration-300 hover:scale-105 text-sm lg:text-base">
-          Get Started
+        <button className="hidden md:inline-block px-5 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 shadow-lg hover:shadow-xl transition duration-300 hover:scale-105 text-sm lg:text-base" id='https://www.linkedin.com/in/ayushman-praharaj-28985231b/'>
+          Linkdin
         </button>
 
         {/* Mobile Menu Icon */}
@@ -72,7 +72,7 @@ const Navbar = () => {
         <button
           className="mt-2 px-5 py-2 rounded-full bg-gradient-to-r from-green-400 to-blue-500 shadow-md hover:scale-105 transition" id='https://www.linkedin.com/in/ayushman-praharaj-28985231b/'
         >
-          LinkDin
+          Linkdin
         </button>
       </div>
     </nav>
